@@ -24,7 +24,7 @@ Bentota, located on the southwestern coast, is known for its pristine beaches an
 Sri Lanka Visa: What You Need to Know
 Before you start planning your adventure to Sri Lanka, it's important to understand the visa requirements for entry. Most travelers will need to apply for an Electronic Travel Authorization (ETA), which is an online visa approval system that makes it quick and easy to enter Sri Lanka.
 How to Apply for an ETA:
-1.	Visit the Sri Lanka ETA Website: You can apply for your visa online via the official Sri Lanka ETA portal.
+1.	Visit the Sri Lanka ETA Website: You can apply for your visa online via the official Sri Lanka ETA portal [ https://www.govt.sl/en-us/ ].
 2.	Provide Personal Information: You’ll need to provide basic personal details, travel information, and your passport details.
 3.	Payment: The ETA application requires a processing fee, which can be paid through the online portal.
 4.	Processing Time: The ETA is usually processed within a few days, but it's recommended to apply at least 72 hours before your departure.
