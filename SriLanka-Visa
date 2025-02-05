@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring the Beauty of Sri Lanka</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .visa-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Exploring the Beauty of Sri Lanka: A Paradise for Every Traveler</h1>
+        <p>Sri Lanka, the teardrop-shaped island in the Indian Ocean, is a destination brimming with history, culture, and natural beauty. Whether you're an adventure enthusiast, history buff, or beach lover, Sri Lanka offers something for everyone.</p>
+        
+        <h2>Sigiriya: The Lion’s Rock</h2>
+        <p>One of Sri Lanka's most iconic landmarks, Sigiriya, is a UNESCO World Heritage site and an ancient rock fortress that towers 200 meters above the surrounding jungle.</p>
+        
+        <h2>Kandy: The Sacred City</h2>
+        <p>Kandy, nestled in the heart of the island, is the cultural capital of Sri Lanka. The highlight of Kandy is the Temple of the Tooth Relic, a sacred Buddhist temple.</p>
+        
+        <h2>Sri Lanka Visa: What You Need to Know</h2>
+        <p>Before you start planning your adventure to Sri Lanka, it's important to understand the visa requirements for entry. Most travelers will need to apply for an Electronic Travel Authorization (ETA).</p>
+        
+        <p><strong>How to Apply for an ETA:</strong></p>
+        <ol>
+            <li>Visit the <a href="https://www.govt.sl/en-us/" target="_blank" class="visa-link">Sri Lanka ETA Website</a>.</li>
+            <li>Provide personal information.</li>
+            <li>Make a payment.</li>
+            <li>Wait for processing and approval.</li>
+        </ol>
+    </div>
+</body>
+</html>
